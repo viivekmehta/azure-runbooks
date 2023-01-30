@@ -1,4 +1,3 @@
-Connect-AzAccount -Identity
 Param
 (
   [Parameter (Mandatory=$false)]
